@@ -1,5 +1,5 @@
 # Album Cover Art
-Mathematica code creating tiling of album covers proportional to number of listens using last.fm data! Enjoy!
+Mathematica code creating tiling of album covers proportional to number of listens using <a href = "last.fm">LastFM</a> data! Enjoy!
 
 <img src = "https://i.imgur.com/WR1bLCA.png" alt = "my albums of the year 2020!"/>
 
