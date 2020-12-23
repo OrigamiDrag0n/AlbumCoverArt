@@ -1,7 +1,7 @@
 # Album Cover Art
 Mathematica code creating tiling of album covers proportional to number of listens using last.fm data! Enjoy!
 
-![My 2020 chart of the year!](https://imgur.com/gallery/TXTp50l)
+![My albums of the 2020!]("https://imgur.com/a/nTp1OHQ")
 
 ## Usage of the code (version 1, *slow* - will be in need of improvement)
 
