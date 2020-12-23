@@ -12,5 +12,5 @@ myChart = collage[username_, n_] (*creates proportional chart for your top n art
 ```
 (for example, the above image was created with `collage["origamidrag0n", 50]`).
 
-Text was added using the <a href = https://www.gimp.org/">GIMP editor</a> - but any similar program will also do. Will work on adding this automatically, and improving efficiency, in future.
+Text was added using the <a href = "https://www.gimp.org/">GIMP editor</a> - but any similar program will also do. Will work on adding this automatically, and improving efficiency, in future.
 
